@@ -114,7 +114,7 @@ nav a{
     text-align: center;
     margin-left: 0px;
 }
-/* Add these styles to your existing style.css file */
+
 
 .hobbies {
     display: flex;
@@ -130,8 +130,8 @@ nav a{
 .hobby img {
     max-width: 100%;
     height: auto;
-    border-radius: 10px; /* Optional: Add rounded corners to the images */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle box shadow */
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
 }
 
 
